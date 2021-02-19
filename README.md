@@ -1,2 +1,2 @@
 # name
-My name is Whitney
+My name is Whitney.
